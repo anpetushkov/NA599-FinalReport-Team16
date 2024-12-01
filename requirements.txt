@@ -1,0 +1,4 @@
+autograd=1.5
+numpy=1.25.2
+pymanopt=2.2.0
+python=3.9.18
